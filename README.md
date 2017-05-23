@@ -7,3 +7,5 @@ Contents:
 * [ ] Model
 * [ ] Results
 * [ ] Conclusion
+
+Thanks for visiting! :clap: :fireworks:
