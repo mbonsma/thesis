@@ -3,7 +3,7 @@
 Welcome to my thesis repository!
 
 Contents:
-* [x] Introduction
+* [x] [Introduction](https://github.com/mbonsma/thesis/blob/master/Introduction.md)
 * [ ] Model
 * [ ] Results
 * [ ] Conclusion
